@@ -1,0 +1,9 @@
+﻿  Source.cpp
+  Website.cpp
+c:\users\98210\source\repos\project2\project2\website.cpp(65): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  3 of 250 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project2.vcxproj -> C:\Users\98210\source\repos\Project2\Release\Project2.exe
